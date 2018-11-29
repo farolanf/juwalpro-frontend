@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://juwalpro.netlify.com/* https://pro.juwal.id/:splat 301!
