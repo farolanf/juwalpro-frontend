@@ -1,0 +1,39 @@
+creating task
+
+    add task creation token to a git issue.
+
+    the token: [juwalpro-task]
+
+    the token can be added on issue description or comments.
+
+task issue badges
+
+    when an issue is registered as a task, the juwalpro github app will inject
+    task badges next to the token.
+
+    [juwalpro-task]
+    --------------------------------------------------------------------------
+
+        bounty $2400                 backers 43                  
+
+       Get the bounty!
+    --------------------------------------------------------------------------
+
+    Clicking 'Get the bounty!' will take user to the task detail page on juwalpro website,  user then can proceed to accept the task.
+
+    Upon acceptance of the task, the badges updated to display a list of users working
+    on the task.
+
+    [juwalpro-task]
+    --------------------------------------------------------------------------
+
+        bounty $2400                 backers 43                  
+
+       Get the bounty!               Add bounty
+    --------------------------------------------------------------------------
+    farolanf started working on this at 23/11/2018 16:33
+    mthomas started working on this at 27/11/2018 11:33
+
+    Anyone can become a backer by clicking 'Add bounty'
+
+    Hovering over 'backers' shows the list of backers.
